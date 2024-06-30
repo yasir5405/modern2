@@ -75,11 +75,11 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "/ui.earth.com",
+      title: "OptiBank - Modern Banking Platform",
+      des: "OptiBank is a modern banking application for everyone! Access and manage your accounts and transactions efficiently.",
+      img: "/project1.png",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg", "/fm.svg"],
+      link: "https://banking-lyart.vercel.app",
     },
     {
       id: 2,
